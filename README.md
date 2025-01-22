@@ -1,4 +1,3 @@
-# person_detection_and_counting
 
 Nesne Sayma ve Takip - YOLOv8 Kullanımı
 
